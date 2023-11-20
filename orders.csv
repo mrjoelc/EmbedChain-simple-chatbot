@@ -1,0 +1,9 @@
+numero_ordine,nome_utente,email,dettagli_ordine,stato_ordine,codice_tracciabilita,corriere,prezzo_totale
+1001,Mario Rossi,mario.rossi@example.com,"[{""id_prodotto"": 1, ""quantita"": 2},{""id_prodotto"": 5, ""quantita"": 1},{""id_prodotto"": 10, ""quantita"": 3}]",non confermato,N.D.,N.D,1848.94
+1002,Giulia Bianchi,giulia.bianchi@example.com,"[{""id_prodotto"": 3, ""quantita"": 1},{""id_prodotto"": 7, ""quantita"": 2},{""id_prodotto"": 8, ""quantita"": 1}]",in attesa di pagamento,N.D.,N.D,1049.95
+1003,Luca Verdi,luca.verdi@example.com,"[{""id_prodotto"": 6, ""quantita"": 2},{""id_prodotto"": 1, ""quantita"": 1},{""id_prodotto"": 9, ""quantita"": 1}]",in lavorazione,N.D.,N.D,1129.96
+1004,Alice Neri,alice.neri@example.com,"[{""id_prodotto"": 2, ""quantita"": 3},{""id_prodotto"": 4, ""quantita"": 1},{""id_prodotto"": 7, ""quantita"": 2}]",spedito,TR123456,BRT,2099.99
+1005,Roberto Rossi,roberto.rossi@example.com,"[{""id_prodotto"": 8, ""quantita"": 1},{""id_prodotto"": 10, ""quantita"": 2},{""id_prodotto"": 3, ""quantita"": 1}]",non confermato,N.D.,N.D,1500.0
+1008,Elena Neri,elena.neri@example.com,"[{""id_prodotto"": 10, ""quantita"": 2},{""id_prodotto"": 8, ""quantita"": 1},{""id_prodotto"": 5, ""quantita"": 1}]",spedito,TR987654,BRT,2345.67
+1009,Giacomo Rossi,giacomo.rossi@example.com,"[{""id_prodotto"": 3, ""quantita"": 1},{""id_prodotto"": 9, ""quantita"": 2},{""id_prodotto"": 7, ""quantita"": 1}]",reso,N.D.,N.D.,999.99
+1010,Chiara Bianchi,chiara.bianchi@example.com,"[{""id_prodotto"": 4, ""quantita"": 1},{""id_prodotto"": 6, ""quantita"": 1},{""id_prodotto"": 2, ""quantita"": 3}]",spedito,TR555555,BRT,1800.0

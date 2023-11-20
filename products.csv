@@ -1,0 +1,21 @@
+id_prodotto, nome_prodotto, produttore, quantita, descrizione, prezzo, tipo_prodotto
+1, Smartphone XYZ, ABC Electronics, 50, Smartphone con fotocamera avanzata, 599.99, smartphone
+2, Laptop ABC123, XYZ Computers, 30, Laptop leggero e potente, 899.99, laptop
+3, Smartwatch ConnectX, Wearable Tech, 20, Smartwatch con monitoraggio fitness e notifiche, 179.99, smartwatch
+4, Televisore SmartVision, Display Tech, 15, Televisore con risoluzione Full HD e funzioni smart, 699.99, televisore
+5, Smartphone ProTech, DEF Mobile, 40, Smartphone resistente all'acqua e agli urti, 699.99, smartphone
+6, Laptop SlimBook, Tech Innovations, 25, Laptop sottile e leggero per uso quotidiano, 699.99, laptop
+7, Smartwatch HealthTracker, Wellness Wear, 30, Smartwatch con monitoraggio salute e fitness, 129.99, smartwatch
+8, Televisore UltraHD Vision, Display Tech, 10, Televisore con risoluzione 4K e colori vividi, 999.99, televisore
+9, Smartphone EliteX, GHI Electronics, 45, Smartphone di alta gamma con schermo AMOLED, 899.99, smartphone
+10, Laptop PowerPro, XYZ Computers, 15, Laptop potente per gaming e grafica, 1299.99, laptop
+11, Smartwatch StyleSense, Fashion Tech, 22, Smartwatch con design elegante e funzioni smart, 149.99, smartwatch
+12, Televisore 8K Supreme, Display Tech, 8, Televisore con risoluzione 8K e tecnologia HDR, 1999.99, televisore
+13, Smartphone SlimFit, Tech Innovations, 30, Smartphone sottile con prestazioni avanzate, 749.99, smartphone
+14, Laptop UltraPerformance, ABC Computers, 18, Laptop ad alte prestazioni per professionisti, 1499.99, laptop
+15, Smartwatch OutdoorX, Adventure Tech, 25, Smartwatch per attività outdoor con GPS, 199.99, smartwatch
+16, Televisore OLED MasterView, Display Tech, 12, Televisore OLED con contrasto perfetto, 1599.99, televisore
+17, Smartphone PowerMax, XYZ Mobile, 35, Smartphone con batteria ad alta capacità, 799.99, smartphone
+18, Laptop Gaming Beast, Gaming Systems, 20, Laptop da gaming con scheda grafica potente, 1799.99, laptop
+19, Smartwatch MusicSync, Audio Wear, 28, Smartwatch con funzionalità di controllo musicale, 119.99, smartwatch
+20, Televisore Curvo Infinity, Display Tech, 14, Televisore curvo con esperienza visiva immersiva, 1299.99, televisore
